@@ -1,0 +1,17 @@
+# Ignore Visual Studio solution and project files
+*.suo
+*.user
+*.vbproj
+*.csproj
+
+# Ignore temporary or build output files
+/bin/
+/obj/
+.vs/
+
+# Ignore package manager lock files
+*.lock
+*.config
+
+# Ignore any files or directories starting with _ (underscore)
+**/_*

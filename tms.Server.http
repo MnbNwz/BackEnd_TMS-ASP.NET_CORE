@@ -1,0 +1,6 @@
+@tms.Server_HostAddress = http://localhost:3000
+
+GET {{tms.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
